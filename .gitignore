@@ -1,0 +1,12 @@
+/face_dataset/
+/embedded_face_dataset/
+/align_face_dataset/
+/venv/
+/src/__init__.py
+/openface/evaluation/__init__.py
+/openface/training/__init__.py
+/openface/api-docs/__init__.py
+/openface/demos/__init__.py
+/openface/demos/web/__init__.py
+/openface/__init__.py
+/src/model/.ipynb_checkpoints/
